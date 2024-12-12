@@ -104,7 +104,7 @@ Example
 Demonstration: Using
 `pandoc-latex-absolute-image-sample.txt <https://raw.githubusercontent.com/chdemko/pandoc-latex-absolute-image/develop/docs/images/pandoc-latex-absolute-image-sample.txt>`__
 as input gives output file in
-`pdf <https://raw.githubusercontent.com/chdemko/pandoc-latex-tip/develop/docs/images/pandoc-latex-absolute-image-sample.pdf>`__.
+`pdf <https://raw.githubusercontent.com/chdemko/pandoc-latex-absolute-image/develop/docs/images/pandoc-latex-absolute-image-sample.pdf>`__.
 
 .. code-block:: shell-session
 
