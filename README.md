@@ -7,7 +7,7 @@ Installation
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://pypi.org/project/black/)
 [![Coveralls](https://img.shields.io/coveralls/github/chdemko/pandoc-latex-absolute-image/develop.svg?logo=Codecov&logoColor=white)](https://coveralls.io/github/chdemko/pandoc-latex-absolute-image?branch=develop)
 [![Scrutinizer](https://img.shields.io/scrutinizer/g/chdemko/pandoc-latex-absolute-image.svg?logo=scrutinizer)](https://scrutinizer-ci.com/g/chdemko/pandoc-latex-absolute-image/)
-[![Code Climate](https://codeclimate.com/github/chdemko/pandoc-latex-absolute-image/badges/gpa.svg)](https://codeclimate.com/github/chdemko/pandoc-latex-absolute-image/)
+[![Code Climate](https://img.shields.io/codeclimate/maintainability/chdemko/pandoc-numbering?logo=codeclimate&barnch=develop)](https://codeclimate.com/github/chdemko/pandoc-latex-absolute-image/)
 [![CodeFactor](https://img.shields.io/codefactor/grade/github/chdemko/pandoc-latex-absolute-image/develop.svg?logo=codefactor)](https://www.codefactor.io/repository/github/chdemko/pandoc-latex-absolute-image)
 [![Codacy](https://img.shields.io/codacy/grade/de425638e13b4ceab3bfad1c4557aa6c.svg?logo=codacy&logoColor=white)](https://app.codacy.com/gh/chdemko/pandoc-latex-absolute-image/dashboard)
 [![PyPI version](https://img.shields.io/pypi/v/pandoc-latex-absolute-image.svg?logo=pypi&logoColor=white)](https://pypi.org/project/pandoc-latex-absolute-image/)
