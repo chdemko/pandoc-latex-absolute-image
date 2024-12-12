@@ -1,0 +1,12 @@
+cov
+pylint
+unsubscriptable
+toplevel
+platformdirs
+minipage
+codeblock
+unexisting
+fontawesome
+glyphicons
+decrementing
+noinspection
