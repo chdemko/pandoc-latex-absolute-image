@@ -23,10 +23,9 @@ entry by a list of definitions:
    pandoc-latex-absolute-image:
      - classes: [left]
        image: Tux.pdf
-       xcoord: 1cm
-       ycoord: 1cm
-       position: left
-       size: 32pt
+       x-coord: 1cm
+       y-coord: 1cm
+       width: 32pt
 
 The metadata block above is used to position *Tux* on all pages
 **1cm** from the left edge and **1cm** from the top edge.
