@@ -1,5 +1,5 @@
-Welcome to pandoc-latex-margin-image's documentation!
-=====================================================
+Welcome to pandoc-latex-absolute-image's documentation!
+=======================================================
 
 .. toctree::
    :maxdepth: 2

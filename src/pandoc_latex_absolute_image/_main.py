@@ -47,7 +47,7 @@ def absolute_image(elem: Element, doc: Doc) -> list[Element] | None:
     if doc.format in ("latex", "beamer") and isinstance(
         elem, Span | Div | Code | CodeBlock | Header
     ):
-        # Is there a latex-tip-icon attribute?
+        # Is there a latex-absolute-image attribute?
         if (
             "latex-absolute-image" in elem.attributes
             or "latex-absolute-image-reset" in elem.attributes
